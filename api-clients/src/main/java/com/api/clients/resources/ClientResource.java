@@ -1,7 +1,6 @@
 package com.api.clients.resources;
 
 import com.api.clients.dto.ClientDTO;
-import com.api.clients.repositories.ClientRepository;
 import com.api.clients.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
